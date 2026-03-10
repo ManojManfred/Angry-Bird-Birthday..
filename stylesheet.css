@@ -15,13 +15,7 @@ body {
 	background-color: #FFDAB9;
 	
 }
-.balloon-container{
-display:flex;
-justify-content:center;
-align-items:center;
-flex-wrap:wrap;
-gap:10px;
-}
+
 
 @media (max-width:768px){
 .balloons{
